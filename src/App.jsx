@@ -7,10 +7,10 @@ function Apps() {
  
   return (
     <>
+      <h1>TITULO DE APP</h1>
       <div>
         <p>Holaaaaaaaa</p>
       </div>
-      <h1>ejemplo</h1>
     </>
   )
 }
